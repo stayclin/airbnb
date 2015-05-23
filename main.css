@@ -34,3 +34,11 @@
 .learn-more a{
     color: #00b0ff;
 }
+
+.nav li{
+    display: inline;
+}
+.jumbotron .container{
+    position: relative;
+    top: 100px;
+}
