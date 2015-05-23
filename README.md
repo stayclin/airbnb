@@ -1,2 +1,2 @@
 # airbnb
-replicate basic Airbnb homepage
+Replicate simple Airbnb homepage.
